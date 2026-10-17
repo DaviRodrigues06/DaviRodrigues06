@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Davi Rodrigues 👋
 
-<!--
-**DaviRodrigues06/DaviRodrigues06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudo **Engenharia da Computação no Mackenzie** e desenvolvo projetos pessoais para me aprofundar em **backend com Java**. Tenho interesse em APIs, modelagem de dados e em transformar problemas reais em software testável e bem documentado.
 
-Here are some ideas to get you started:
+## Projetos e estudos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Repositório | O que você encontra | Estado |
+| --- | --- | --- |
+| [POO no Mackenzie](https://github.com/DaviRodrigues06/POO---Mackenzie-) | Exercícios de modelagem e programação orientada a objetos em Java | Em evolução |
+| [Exercícios Java](https://github.com/DaviRodrigues06/Exerc-cios-Java) | Exercícios introdutórios de lógica e Java | Base inicial |
+| [Product Recommendation API](https://github.com/DaviRodrigues06/product-recommendation-api) | Estrutura inicial de uma API com Spring Boot e PostgreSQL | Em construção |
+
+## Em desenvolvimento
+
+- Java: orientação a objetos, coleções, tratamento de erros e testes.
+- Backend: APIs REST com Spring Boot, validação, persistência e documentação.
+- Dados: SQL, modelagem relacional e consultas.
+- Engenharia: Git, testes automatizados, Docker e fundamentos de cloud.
+
+Meu objetivo é transformar cada tema em um projeto executável, com instruções para rodar e decisões técnicas explicadas. Os repositórios aqui são estudos e projetos pessoais.
+
+📍 São Paulo, Brasil · [Veja meus repositórios](https://github.com/DaviRodrigues06?tab=repositories)
