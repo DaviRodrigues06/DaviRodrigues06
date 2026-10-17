@@ -28,6 +28,6 @@ My first attempts passed a Gemini response object into Alexa's response serializ
 - Test the whole interaction, including a follow-up question, rather than only the first API call.
 - Consider latency and persistence costs before adding infrastructure.
 
-**Evidence:** I have a LinkedIn post demonstrating the prototype. I will add the direct link here after verifying it. The source code is not currently linked from this case study.
+**Demo:** [Watch the project demonstration on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7364760890564399105/). The source code is not currently linked from this case study.
 
 This is a personal prototype, not a production voice assistant.
