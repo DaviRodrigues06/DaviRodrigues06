@@ -1,23 +1,46 @@
-# Olá, eu sou o Davi Rodrigues 👋
+![Davi Rodrigues — Computer Engineering, backend and data systems](./assets/header.svg)
 
-Estudo **Engenharia da Computação no Mackenzie** e desenvolvo projetos pessoais para me aprofundar em **backend com Java**. Tenho interesse em APIs, modelagem de dados e em transformar problemas reais em software testável e bem documentado.
+### Hi, I'm Davi.
 
-## Projetos e estudos
+I'm a Computer Engineering student at Mackenzie University in São Paulo, Brazil. I enjoy building the part of software that connects ideas to working systems: APIs, integrations, data models and the decisions behind them.
 
-| Repositório | O que você encontra | Estado |
-| --- | --- | --- |
-| [SQL Lab — Livraria](https://github.com/DaviRodrigues06/sql-lab-livraria) | Modelo relacional, dados fictícios e consultas de vendas | Laboratório executável |
-| [POO no Mackenzie](https://github.com/DaviRodrigues06/POO---Mackenzie-) | Exercícios de modelagem e programação orientada a objetos em Java | Em evolução |
-| [Exercícios Java](https://github.com/DaviRodrigues06/Exerc-cios-Java) | Exercícios introdutórios de lógica e Java | Base inicial |
-| [Product Recommendation API](https://github.com/DaviRodrigues06/product-recommendation-api) | Estrutura inicial de uma API com Spring Boot e PostgreSQL | Em construção |
+I'm focusing my next steps on **Java backend development**. This profile is a record of what I have built, what I am learning and what is still in progress.
 
-## Em desenvolvimento
+---
 
-- Java: orientação a objetos, coleções, tratamento de erros e testes.
-- Backend: APIs REST com Spring Boot, validação, persistência e documentação.
-- Dados: SQL, modelagem relacional e consultas.
-- Engenharia: Git, testes automatizados, Docker e fundamentos de cloud.
+## Selected work
 
-Meu objetivo é transformar cada tema em um projeto executável, com instruções para rodar e decisões técnicas explicadas. Os repositórios aqui são estudos e projetos pessoais.
+### 01 / Alexa + Gemini — conversational voice prototype
 
-📍 São Paulo, Brasil · [Veja meus repositórios](https://github.com/DaviRodrigues06?tab=repositories)
+**Python · AWS Lambda · Alexa Skills Kit · Gemini API**  
+I built a voice skill that answers questions with Gemini and supports follow-up turns. The interesting part was making two SDKs work together: I resolved a response serialization issue and kept conversation context in Alexa session attributes.
+
+[Read the engineering case study →](./projects/alexa-gemini.md)
+
+### 02 / Product Recommendation API — in progress
+
+**Java 17 · Spring Boot · PostgreSQL**  
+A backend project I am developing in public. The repository currently contains the Spring Boot foundation; product endpoints and recommendation rules are the next milestones. I document its real state as it grows.
+
+[Explore the repository →](https://github.com/DaviRodrigues06/product-recommendation-api) · [See the first implementation milestone →](https://github.com/DaviRodrigues06/product-recommendation-api/issues/1)
+
+### 03 / SQL Lab — practice project
+
+**Relational modeling · joins · aggregation · constraints**  
+A fictional bookstore dataset with a schema, sample rows and queries for revenue, customers and books sold. It is a focused practice lab, with instructions and expected results.
+
+[Explore the SQL lab →](https://github.com/DaviRodrigues06/sql-lab-livraria)
+
+---
+
+## Tools I use and study
+
+![Java](https://img.shields.io/badge/Java-30343a?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-30343a?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30343a?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-30343a?style=flat-square&logo=python&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-30343a?style=flat-square&logo=awslambda&logoColor=white)
+
+My [Java OOP exercises](https://github.com/DaviRodrigues06/POO---Mackenzie-) show earlier practice with classes, inheritance and collections. I am adding tests, database work and complete API flows to move beyond classroom exercises.
+
+## What I'm working toward
+
+A Java portfolio project that someone else can clone, run and evaluate: clear domain rules, a relational database, automated tests, API examples and documented trade-offs. I am interested in junior backend opportunities and in learning from people who ship reliable software.
+
+<sub>Projects here are personal work and use fictional data. When something is unfinished, I label it.</sub>
