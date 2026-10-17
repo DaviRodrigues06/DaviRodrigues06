@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Davi Rodrigues — backend and data systems</title>
+  <desc id="desc">A clean charcoal banner with Davi's name and a short engineering focus.</desc>
+  <rect width="1200" height="260" rx="18" fill="#17191c"/>
+  <path d="M64 58h1072M64 202h1072" stroke="#5a6067" stroke-width="1"/>
+  <circle cx="1081" cy="129" r="18" fill="none" stroke="#9aa1a9" stroke-width="2"/>
+  <path d="m1078 121-7 8 7 8m6-16 7 8-7 8" fill="none" stroke="#c7ccd1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="126" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" fill="#f7f7f5">Davi Rodrigues</text>
+  <text x="66" y="169" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#b9bec4">Computer Engineering  /  Backend &amp; data systems</text>
+</svg>
