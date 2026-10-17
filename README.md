@@ -6,6 +6,7 @@ Estudo **Engenharia da Computação no Mackenzie** e desenvolvo projetos pessoai
 
 | Repositório | O que você encontra | Estado |
 | --- | --- | --- |
+| [SQL Lab — Livraria](https://github.com/DaviRodrigues06/sql-lab-livraria) | Modelo relacional, dados fictícios e consultas de vendas | Laboratório executável |
 | [POO no Mackenzie](https://github.com/DaviRodrigues06/POO---Mackenzie-) | Exercícios de modelagem e programação orientada a objetos em Java | Em evolução |
 | [Exercícios Java](https://github.com/DaviRodrigues06/Exerc-cios-Java) | Exercícios introdutórios de lógica e Java | Base inicial |
 | [Product Recommendation API](https://github.com/DaviRodrigues06/product-recommendation-api) | Estrutura inicial de uma API com Spring Boot e PostgreSQL | Em construção |
